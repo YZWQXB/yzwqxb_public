@@ -1,0 +1,6 @@
+﻿  Game框架.cpp
+  1.cpp
+  正在生成代码...
+E:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1193,5): warning MSB4220: 等待当前正在执行的任务“Link”取消。
+E:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1193,5): warning MSB4220: 等待当前正在执行的任务“Link”取消。
+E:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1193,5): error MSB6006: “link.exe”已退出，代码为 -1073741502。

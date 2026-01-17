@@ -1,0 +1,10 @@
+﻿  qh1.c
+  qh2.c
+  qh3.c
+  zy1.c
+  zy2.c
+  zy3.c
+E:\C语言\进厂\Todo_C_1_1\zy3.c(8,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  zy4.c
+  正在生成代码...
+  Todo_C_1_1.vcxproj -> E:\C语言\进厂\Debug\Todo_C_1_1.exe
